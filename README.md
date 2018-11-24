@@ -7,6 +7,10 @@ Using:
 * Chocolatey
 * Ansible
 
+Tested on:
+
+* Windows 10 (build xxx)
+
 ## Installation
 
 Run: `install.ps1`
