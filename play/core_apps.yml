@@ -1,0 +1,8 @@
+---
+
+- name: Install core_apps
+  win_chocolatey:
+    name:
+      - example
+      - example2
+    state: present

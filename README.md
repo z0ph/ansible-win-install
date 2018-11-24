@@ -38,3 +38,7 @@ Run: `install.ps1`
 * Natural Scroling for trackpad
 * Show file extension
 * Show hidden files
+
+### Documentation
+
+* https://docs.ansible.com/ansible/latest/modules/win_chocolatey_module.html
