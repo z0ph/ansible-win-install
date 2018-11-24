@@ -1,6 +1,6 @@
 # Ansible Installation
 
-This Ansible project intend to automate the installation of your fresh new Windows.
+This Ansible project intend to automate the post-installation of your fresh new Windows.
 
 Using:
 
@@ -9,29 +9,32 @@ Using:
 
 ## Installation
 
-Run: `Install.ps1`
+Run: `install.ps1`
 
 ## Core Apps
 
-* Teams
-* Slack
-* Python
-* VSCode
-* SublimeText
-* Skype
-* Skype for Business
-* Outlook
-* Notepad++
-* Linux subsystem (Debian)
 * cfn-lint
-* Dropbox
 * Chrome
+* Dropbox
 * Firefox
 * FoxitPDF
+* Linux subsystem (Debian)
+* Notepad++
+* OneNote
+* Outlook
+* Python
+* Skype
+* Skype for Business
+* Slack
+* Spotify
+* SublimeText
+* Teams
+* VSCode
 
 ## Windows Settings
 
-* Natural Scroling for trackpad
+* Customize Taskbar
 * Folders List View
+* Natural Scroling for trackpad
 * Show file extension
 * Show hidden files
