@@ -13,10 +13,11 @@ Tested on:
 
 ## Installation
 
-Run: `install.ps1`
+Run: `.\install.ps1`
 
 ## Core Apps
 
+* 7zip
 * cfn-lint
 * Chrome
 * Dropbox
@@ -26,14 +27,21 @@ Run: `install.ps1`
 * Notepad++
 * OneNote
 * Outlook
+* Pycharm
 * Python
 * Skype
 * Skype for Business
 * Slack
 * Spotify
 * SublimeText
+* sysinternals
 * Teams
+* VLC
 * VSCode
+
+## Windows
+
+* Run Windows Update
 
 ## Windows Settings
 
@@ -42,6 +50,7 @@ Run: `install.ps1`
 * Natural Scroling for trackpad
 * Show file extension
 * Show hidden files
+* Copy Apps Configs files
 
 ### Documentation
 
