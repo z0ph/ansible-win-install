@@ -23,6 +23,7 @@ Run: `.\install.ps1`
 * Dropbox
 * Firefox
 * FoxitPDF
+* Git
 * Linux subsystem (Debian)
 * Notepad++
 * OneNote
@@ -38,6 +39,7 @@ Run: `.\install.ps1`
 * Teams
 * VLC
 * VSCode
+* WsinSCP
 
 ## Windows
 
