@@ -40,7 +40,7 @@ Run: `.\install.ps1`
 * Teams
 * VLC
 * VSCode
-* WsinSCP
+* WinSCP
 
 ## Windows
 

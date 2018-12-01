@@ -8,6 +8,8 @@ choco.exe install python2
 
 C:\Python2.7\python.exe -m pip install ansible
 
-# Run Ansible Playbook
+# get roles
+# C:\Python2.7\python.exe -m ansible-galaxy install -r requirements.yml -p roles
 
-Ansible 
+# launch playbook
+C:\Python2.7\python.exe -m ansible-playbook main.yml --ask-become-pass

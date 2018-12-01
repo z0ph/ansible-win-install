@@ -1,0 +1,16 @@
+- hosts: localhost
+  connection: local
+
+  #vars_files:
+  #  - config.yml
+
+  roles:
+    - role: xxx.xxx
+      when: variable
+
+  tasks:
+    - import_tasks: tasks/core_app.yml
+
+#    - name: Reboot
+#      command: reboot
+#      become: yes
