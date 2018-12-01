@@ -1,9 +1,13 @@
-# Installation Chocolatey
+# Chocolatey Installation
 
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
-# Installation Ansible
+# Ansible Installation
 
-choco install python2
+choco.exe install python2
 
 C:\Python2.7\python.exe -m pip install ansible
+
+# Run Ansible Playbook
+
+Ansible 

@@ -1,15 +1,16 @@
-# Ansible Installation
+# Ansible Windows Installation (AWI)
 
-This Ansible project intend to automate the post-installation of your fresh new Windows.
+This Ansible project intend to automate the post-installation of your a fresh new Windows for SysOps / Developper Profiles
 
 Using:
 
 * Chocolatey
 * Ansible
 
-Tested on:
+## Tested on
 
 * Windows 10 (build xxx)
+* Windows 8.1 (build yyy)
 
 ## Installation
 
@@ -50,10 +51,10 @@ Run: `.\install.ps1`
 * Customize Taskbar
 * Folders List View
 * Natural Scroling for trackpad
-* Show file extension
-* Show hidden files
+* Show file extension in Windows Explorer
+* Show hidden files in Windows Explorer
 * Copy Apps Configs files
 
 ### Documentation
 
-* https://docs.ansible.com/ansible/latest/modules/win_chocolatey_module.html
+* [Ansible with Choco](https://docs.ansible.com/ansible/latest/modules/win_chocolatey_module.html)
