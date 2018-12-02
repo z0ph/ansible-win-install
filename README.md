@@ -58,3 +58,4 @@ Run: `.\install.ps1`
 ### Documentation
 
 * [Ansible with Choco](https://docs.ansible.com/ansible/latest/modules/win_chocolatey_module.html)
+* https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux
