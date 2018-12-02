@@ -55,7 +55,9 @@ Run: `.\install.ps1`
 * Show hidden files in Windows Explorer
 * Copy Apps Configs files
 
-### Documentation
+### Used documentations
 
 * [Ansible with Choco](https://docs.ansible.com/ansible/latest/modules/win_chocolatey_module.html)
 * https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux
+* https://medium.com/the-sysadmin/managing-windows-machines-with-ansible-60395445069f
+* https://stackoverflow.com/questions/30869780/error-installing-chocolatey-via-ansible-on-windows

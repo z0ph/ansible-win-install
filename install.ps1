@@ -12,4 +12,3 @@ Invoke-WebRequest -Uri https://aka.ms/wsl-debian-gnulinux -OutFile Debian.appx -
 
 # launch playbook
 C:\Python2.7\python.exe -m ansible-playbook main.yml --ask-become-pass
-

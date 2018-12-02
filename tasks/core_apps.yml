@@ -3,26 +3,26 @@
 - name: Install Core Apps
   win_chocolatey:
     name:
-    - 7zip # OK
-    - googlechrome # OK
-    - dropbox # OK
-    - firefox # OK
-    - foxitreader # OK
-    - git # OK
-    - notepadplusplus.install # OK
-    - onenote # OK
-    - pycharm-community # OK
+    - 7zip —y # OK
+    - googlechrome —y # OK
+    - dropbox —y # OK
+    - firefox —y # OK
+    - foxitreader —y # OK
+    - git —y # OK
+    - notepadplusplus.install —y # OK
+    - onenote —y # OK
+    - pycharm-community —y # OK
 #   - python2 # OK - Already installed for Ansible
-    - skype # OK
-    - skypeforbusiness # OK
-    - slack # OK
-    - spotify # OK
-    - sublimetext3 # OK
-    - sysinternals # OK
-    - microsoft-teams # OK
-    - vlc # OK
-    - vscode # OK
-    - winscp # OK
+    - skype —y # OK
+    - skypeforbusiness —y # OK
+    - slack —y # OK
+    - spotify —y # OK
+    - sublimetext3 —y # OK
+    - sysinternals —y # OK
+    - microsoft-teams —y # OK
+    - vlc —y # OK
+    - vscode —y # OK
+    - winscp —y # OK
     state: present
 
 #- name: Install Linux Subsystem
@@ -30,7 +30,6 @@
 
 #- name: Install Outlook
 #      - Outlook
-
 
 #- name: Install cfn-lint
 #      - cfn-lint # CloudFormation Lint
